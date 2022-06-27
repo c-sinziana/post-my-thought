@@ -21,7 +21,7 @@ const PostsList = () => {
             src={URL.createObjectURL(post.selectedImage)}
           />
         ) : (
-          <img alt="not found" width={"250px"} src={post.selectedImage} />
+          <img alt="not found" width={"250px"} src={process.env.PUBLIC_URL + post.selectedImage} />
         )}
       </div>
       <h3>{post.title}</h3>
