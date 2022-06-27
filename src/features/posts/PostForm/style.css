@@ -1,0 +1,13 @@
+.labelPostImage{
+    border-style: outset;
+    margin-bottom: 2rem;
+}
+
+.inputPostForm{
+    display: none;
+}
+
+.selectedImageContainer {
+    text-align: center;
+    margin-bottom: 2rem;
+}
