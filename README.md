@@ -6,7 +6,7 @@ Used technologies were React with JS, Redux, HTML and CSS.
 
 ## Live site:
 
-App link: 
+App link: https://c-sinziana.github.io/post-my-thought/
 
 ## Setup guide:
 
